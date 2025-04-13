@@ -65,8 +65,10 @@ This Power BI report analyzes sales data from Maven Roasters, a specialty coffee
 - Creating dynamic metrics using DAX.
 - Enhancing storytelling with layout, color, and filter design.
 
-📫 **Let’s Connect**  
 
+  
+
+📫 **Let’s Connect**  
 This project is a personal learning exercise and part of my data portfolio. Feel free to explore or reach out for collaboration or feedback!
 
 
