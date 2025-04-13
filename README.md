@@ -45,7 +45,7 @@ This Power BI report analyzes sales data from Maven Roasters, a specialty coffee
 - **Customers page**
 ![Customers Page](images/customers_page.png)
 - **Navigation Panel**
-![Navigation Panel](images/navigation_panel.gif)
+![Navigation Panel](images/nagivation_panel.gif)
 - **Dynamic Filters**
 ![Dynamic Filter](images/dynamic_filters.gif)
 
